@@ -1,0 +1,7 @@
+fastapi 
+uvicorn 
+requests 
+scikit-learn 
+numpy 
+python-dotenv
+huggingface_hub
